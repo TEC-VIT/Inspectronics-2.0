@@ -4,7 +4,7 @@ A week long event spanning over multiple sessions and hands-on workshops, coveri
 
 Tune in to find answers to questions like "How to stop robots from taking over?", "What kind of complex components were used in the Apollo 11?" and many more.
 
-## Iternary:
+## itinerary:
 
 ### TECtronics: 
 Want to know the basics of building a robot or add wearable tech to your costumes?
